@@ -1,0 +1,232 @@
+{
+    "allBeverages":[
+        {
+            "name": "Esspresso",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0003_SHORT_ESPRESSO.jpg?v=1650546669",
+            "sizeAndPrice": [
+                {
+                    "size": "Short",
+                    "price": 2.49
+                },
+                {
+                    "size": "Long",
+                    "price": 2.75
+                },
+            ],
+            "type": "coffee",
+            "withMilk": false
+        },
+        {
+            "name": "Macchiato",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0000_SHORT_MACCHIATO.jpg?v=1650546715&width=1500",
+            "sizeAndPrice": [
+                {
+                    "size": "Short",
+                    "price": 2.49
+                },
+                {
+                    "size": "Long",
+                    "price": 2.75
+                },
+            ],
+            "type": "coffee",
+            "withMilk": true
+        },
+        {
+            "name": "Cappuccino",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0009_CAPPUCCINO.jpg?v=1650501035&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.49
+                },
+                {
+                    "size": "Medium",
+                    "price": 3.75
+                },
+                {
+                    "size": "Large",
+                    "price": 4.25
+                }
+            ],
+            "type": "coffee",
+            "withMilk": true
+        },
+        {
+            "name": "Red Eye",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0007_REDEYE.jpg?v=1650500929&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 2.75
+                },
+                {
+                    "size": "Medium",
+                    "price": 2.85
+                },
+                {
+                    "size": "Large",
+                    "price": 3.00
+                }
+            ],
+            "type": "coffee",
+            "withMilk": false
+        },
+        {
+            "name": "Cafe Latte",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0008_CAFELATTE.jpg?v=1650467643&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.49
+                },
+                {
+                    "size": "Medium",
+                    "price": 3.75
+                },
+                {
+                    "size": "Large",
+                    "price": 4.25
+                }
+            ],
+            "type": "coffee",
+            "withMilk": true
+        },
+        {
+            "name": "Cafe Mocha Latte",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0011_CAFEMOCHALATTE.jpg?v=1650501059&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.60
+                },
+                {
+                    "size": "Medium",
+                    "price": 3.90
+                },
+                {
+                    "size": "Large",
+                    "price": 4.35
+                }
+            ],
+            "type": "coffee",
+            "withMilk": true
+        },
+        {
+            "name": "White Hot Chocolate",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0013_WHITEHOTCHOCOLATE.jpg?v=1650467690&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.25
+                },
+                {
+                    "size": "Medium",
+                    "price": 3.40
+                },
+                {
+                    "size": "Large",
+                    "price": 3.60
+                }
+            ],
+            "type": "hot_beverage"
+        },
+        {
+            "name": "Dark Hot Chocolate",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0012_DARKHOTCHOCOLATE.jpg?v=1650467677&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.25
+                },
+                {
+                    "size": "Medium",
+                    "price": 3.40
+                },
+                {
+                    "size": "Large",
+                    "price": 3.60
+                }
+            ],
+            "type": "hot_beverage"
+        },
+        {
+            "name": "Americano",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0010_AMERICANO.jpg?v=1650501288&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 2.85
+                },
+                {
+                    "size": "Medium",
+                    "price": 3.00
+                },
+                {
+                    "size": "Large",
+                    "price": 3.45
+                }
+            ],
+            "type": "coffee",
+            "withMilk": false
+        },
+        {
+            "name": "Hot Tea",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0006_TEA.jpg?v=1650500723&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 2.00
+                },
+                {
+                    "size": "Medium",
+                    "price": 2.00
+                },
+                {
+                    "size": "Large",
+                    "price": 2.00
+                }
+            ],
+            "type": "tea"
+        },
+        {
+            "name": "Chai Tea Latte",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0005_CHAITEALATTE.jpg?v=1650500750&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.99
+                },
+                {
+                    "size": "Medium",
+                    "price": 4.25
+                },
+                {
+                    "size": "Large",
+                    "price": 4.75
+                }
+            ],
+            "type": "tea"
+        },
+        {
+            "name": "London Fog",
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0574/6881/3365/products/COFFEE_DRINK_BREAKDOWN_11X17_0004_LONDONFOG.jpg?v=1650500765&width=750",
+            "sizeAndPrice": [
+                {
+                    "size": "Small",
+                    "price": 3.99
+                },
+                {
+                    "size": "Medium",
+                    "price": 4.25
+                },
+                {
+                    "size": "Large",
+                    "price": 4.75
+                }
+            ],
+            "type": "tea"
+        }
+    ]
+}
+
